@@ -10,6 +10,9 @@ public class Principal {
 
 	/**
 	 * Launch the application.
+	 * 
+	 * 
+	 * Es una prueba chicoooo
 	 */
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
