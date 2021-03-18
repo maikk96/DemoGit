@@ -15,6 +15,7 @@ public class Principal {
 	 * Es una prueba chicoooo
 	 */
 	public static void main(String[] args) {
+		System.out.println("HolaMundo2");
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
