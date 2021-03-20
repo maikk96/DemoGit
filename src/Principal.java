@@ -19,6 +19,7 @@ public class Principal {
 		
 		/* Implemntacion funcionalidad*/
 		
+		// seguimos implementando y terminamos
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
