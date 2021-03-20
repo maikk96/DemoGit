@@ -16,8 +16,12 @@ public class Principal {
 	 */
 	public static void main(String[] args) {
 
-		System.out.println("HolaMundo2");
 
+		System.out.println("HolaMundo1");
+		
+		/* Implemntacion funcionalidad*/
+		
+		// seguimos implementando y terminamos
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
 				try {
